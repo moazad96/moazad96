@@ -1,190 +1,195 @@
 <div align="center">
-👋 Hey, I'm Md Azad
-💻 Junior Software Developer · MERN Stack Developer · Full-Stack Developer
+👋 Hi, I'm Md Azad
+Full-Stack Web Developer · MERN Stack Developer · Junior Software Developer
+<p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Full-Stack+MERN+Developer;Turning+Ideas+Into+Web+Applications;Open+To+Software+Developer+Opportunities" alt="Typing SVG" /> </p> <p> <a href="mailto:moazadgit@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:moazadgit@gmail.com"> <img src="https://img.shields.io/badge/🟢%20Open%20To-Work-2ea44f?style=for-the-badge" /> </a> </p> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </div>
+🚀 About Me
 
-I build modern, responsive & user-focused web applications.
+I'm Md Azad, a passionate Full-Stack Web Developer focused on building modern, responsive, and user-friendly web applications.
 
-<br/>
+I have hands-on experience with the MERN stack, along with PHP, CodeIgniter 4, SQL, Bootstrap, HTML, CSS, and JavaScript.
 
+I've built real-world projects including a full-stack e-commerce platform, online cake shop, and responsive restaurant website. These projects have given me practical experience in frontend development, backend development, REST APIs, databases, and responsive UI development.
 
+I'm currently looking for Software Developer Internships, Junior Software Developer roles, Full-Stack Developer opportunities, and MERN Stack Developer positions.
 
+👨‍💻 Quick Overview
+	
+💻 Primary Focus	Full-Stack Web Development
+⚛️ Specialization	MERN Stack
+🌐 Frontend	HTML · CSS · JavaScript · Bootstrap · React
+⚙️ Backend	Node.js · Express.js · PHP · CodeIgniter 4
+🗄️ Database	MongoDB · SQL
+🏗️ Development	REST APIs · Responsive Web Applications
+💼 Looking For	Jobs & Internships
+📧 Email	moazadgit@gmail.com
+🛠️ Tech Stack
+🎨 Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" /> </p>
 
-</div>
-👨‍💻 About Me
+HTML · CSS · JavaScript · Bootstrap · React.js
 
-Hi! I'm Md Azad, a passionate software developer who enjoys turning ideas into functional and beautiful web applications.
+⚙️ Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,php,codeigniter" /> </p>
 
-I specialize in MERN Stack development and also have experience with PHP, CodeIgniter 4, SQL, and modern frontend technologies.
+Node.js · Express.js · PHP · CodeIgniter 4
 
-I'm currently looking for a Software Developer Internship or Junior Software Developer position where I can work on real-world projects, collaborate with experienced developers, and continue growing as a software engineer.
+🗄️ Database
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> </p>
 
-const azad = {
-    name: "Md Azad",
-    role: "Junior Software Developer",
-    specialization: "MERN Stack",
-    currentlyLookingFor: [
-        "Software Developer Internship",
-        "Junior Software Developer",
-        "MERN Stack Developer"
-    ],
-    passion: [
-        "Building Web Applications",
-        "Problem Solving",
-        "Learning New Technologies"
-    ]
-};
+MongoDB · SQL / MySQL
 
-🚀 Featured Projects
+🔧 Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> </p>
+
+Git · GitHub · VS Code · Postman
+
+🌟 Featured Projects
 🛒 01 — MasjidStore
-Full-Stack E-Commerce Platform
+Full-Stack E-Commerce Web Application
 
-MasjidStore is a full-stack e-commerce web application built with the MERN stack.
+MasjidStore is a full-stack e-commerce web application developed using the MERN stack.
 
-The project focuses on creating a complete online shopping experience with a modern interface and a scalable backend architecture.
+The project demonstrates my ability to work across the frontend, backend, API layer, and database to create a complete web application.
 
-⚡ Tech Stack
+Tech Stack:
 
-React Node.js Express.js MongoDB JavaScript HTML CSS Bootstrap
+MongoDB Express.js React.js Node.js
 
 ✨ Highlights
-🛍️ E-commerce product browsing
-🛒 Shopping cart functionality
-👤 User-focused shopping experience
+🛍️ Full-stack e-commerce architecture
+🛒 Online shopping experience
+⚛️ React-based frontend
+⚙️ Node.js & Express.js backend
 🔌 REST API integration
 🗄️ MongoDB database
-⚛️ React-based frontend
-🖥️ Node.js & Express.js backend
-📱 Responsive design
-🔗 Project
+📱 Responsive user interface
+🎨 Modern and user-friendly design
+🔗 Project Links
 
-Live Demo: Coming Soon
+📂 View Source Code
 
-Source Code: Add Repository Link
+🌐 Live Demo
 
 🎂 02 — Cakiva
 Online Cake Shop
 
-Cakiva is a modern online cake-shop web application developed using the MERN stack.
+Cakiva is a modern online cake-shop web application built using the MERN stack.
 
-The goal of the project was to create an attractive and user-friendly platform where customers can explore cakes and interact with an online ordering experience.
+The project focuses on creating an attractive and user-friendly online experience for customers to explore cake products.
 
-⚡ Tech Stack
+Tech Stack:
 
-React Node.js Express.js MongoDB JavaScript HTML CSS Bootstrap
+MongoDB Express.js React.js Node.js
 
 ✨ Highlights
-🎂 Online cake shop interface
-🧁 Product/category presentation
-🛒 Shopping experience
+🎂 Online cake-shop experience
+🧁 Cake and product showcase
 ⚛️ React frontend
-🔌 Backend REST APIs
-🗄️ MongoDB database
-📱 Responsive UI
-🎨 Clean and modern design
-🔗 Project
+⚙️ Node.js & Express.js backend
+🔌 REST API architecture
+🗄️ MongoDB database integration
+📱 Responsive design
+🎨 Modern and attractive UI
+🔗 Project Links
 
-Live Demo: Coming Soon
+📂 View Source Code
 
-Source Code: Add Repository Link
+🌐 Live Demo
 
 🍽️ 03 — Mehman
-Restaurant / Food Website
+Responsive Restaurant Website
 
-Mehman is a static, mobile-friendly restaurant website designed to provide customers with an attractive digital restaurant experience.
+Mehman is a static, responsive restaurant website designed with a clean and mobile-friendly user experience.
 
-The project focuses on responsive UI, visual presentation, and mobile-first design.
+The project focuses on attractive UI, responsive layouts, restaurant content presentation, and easy navigation.
 
-⚡ Tech Stack
+Tech Stack:
 
 HTML CSS JavaScript Bootstrap
 
 ✨ Highlights
-🍽️ Restaurant-style interface
-📱 Mobile-friendly design
-🎨 Modern visual layout
-📋 Menu presentation
-🖼️ Food-focused UI
-⚡ Fast static website
-📐 Responsive design
-🔗 Project
+🍽️ Restaurant-focused design
+📱 Mobile-responsive interface
+🎨 Clean and modern UI
+📋 Restaurant menu presentation
+🖼️ Food-focused visual design
+⚡ Lightweight static website
+📐 Responsive layout
+🧭 Easy navigation
+🔗 Project Links
 
-Live Demo: Coming Soon
+📂 View Source Code
 
-Source Code: Add Repository Link
+🌐 Live Demo
 
-🧰 Tech Stack
-<div align="center">
-Frontend
-
-
-
-
-
-
-
-Backend
-
-
-
-
-
-
-Database
-
-
-
-
-Tools
-
-
-
-
-</div>
 📊 My Skill Set
 Category	Technologies
-🎨 Frontend	HTML, CSS, JavaScript, Bootstrap, React
-⚙️ Backend	Node.js, Express.js, PHP, CodeIgniter 4
-🗄️ Database	MongoDB, SQL / MySQL
-🔧 Tools	Git, GitHub
-🏗️ Architecture	MERN Stack, REST APIs
-📱 Design	Responsive & Mobile-Friendly UI
-🎯 What I'm Looking For
+🎨 Frontend	HTML · CSS · JavaScript · Bootstrap · React.js
+⚙️ Backend	Node.js · Express.js · PHP · CodeIgniter 4
+🗄️ Database	MongoDB · SQL / MySQL
+🏗️ Architecture	MERN Stack · REST APIs
+🔧 Tools	Git · GitHub · VS Code · Postman
+📱 UI Development	Responsive & Mobile-Friendly Design
+💼 What I'm Looking For
 
-I'm actively looking for opportunities where I can learn, contribute, and grow.
+I'm currently open to work and looking for opportunities where I can contribute to real-world software projects.
 
-💼 Interested In
+🎯 Interested In
 🚀 Software Developer Internships
 💻 Junior Software Developer Roles
 ⚛️ Junior MERN Stack Developer Roles
-🌐 Junior Web Developer Roles
+🌐 Full-Stack Web Developer Roles
 🧑‍💻 Entry-Level Software Engineering Opportunities
 🤝 What I Bring
-Strong willingness to learn
-Hands-on project experience
-Full-stack MERN development knowledge
-Frontend development skills
-Backend & database experience
-Problem-solving mindset
-Passion for building real-world applications
-📈 GitHub Activity
-<div align="center">
+💻 Hands-on full-stack project experience
+⚛️ MERN stack development skills
+🌐 Strong frontend development foundation
+⚙️ Backend and API development experience
+🗄️ MongoDB and SQL database experience
+📱 Responsive web development skills
+🧠 Problem-solving mindset
+🚀 Passion for building real-world applications
+📚 Strong willingness to learn and improve
+🧩 My Development Approach
+              💡 IDEA
+                │
+                ▼
+        🎨 USER INTERFACE
+                │
+                ▼
+           ⚛️ REACT.JS
+                │
+                ▼
+      ⚙️ NODE.JS + EXPRESS
+                │
+                ▼
+          🔌 REST APIs
+                │
+                ▼
+       🗄️ MONGODB / SQL
+                │
+                ▼
+       🚀 WORKING APPLICATION
 
-</div>
+📈 GitHub Statistics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+🎯 Career Goals
+🚀 Start my professional career as a software developer
+💻 Work on real-world production applications
+🧠 Continue strengthening my software development skills
+⚙️ Build reliable and maintainable backend systems
+🌐 Gain experience working with professional development teams
+🤝 Contribute to meaningful software projects
+📈 Grow into a strong full-stack software engineer
 🤝 Let's Connect
+
+I'm interested in software development, full-stack applications, web technologies, and building useful products.
+
+If you're a recruiter, developer, company, or someone interested in collaboration, feel free to connect.
+
+<div align="center"> <a href="mailto:moazadgit@gmail.com"> <img src="https://img.shields.io/badge/Email-moazadgit%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://img.shields.io/badge/GitHub-Visit-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
 <div align="center">
-📩 I'm always open to connecting with developers, recruiters & companies.
-
-📧 Email: moazadgit@gmail.com
-
-💼 LinkedIn: Add LinkedIn URL
-
-🌐 Portfolio: Add Portfolio URL
-
-🐙 GitHub: Add GitHub URL
-
-</div>
-<div align="center">
-💡 Build → Learn → Improve → Repeat
+💙 Build. Learn. Improve. Repeat.
 
 Thanks for visiting my profile! ⭐
 
