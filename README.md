@@ -1,7 +1,7 @@
 <div align="center">
 👋 Hi, I'm Md Azad
 Full-Stack Web Developer · MERN Stack Developer · Junior Software Developer
-<p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Full-Stack+MERN+Developer;Turning+Ideas+Into+Web+Applications;Open+To+Software+Developer+Opportunities" alt="Typing SVG" /> </p> <p> <a href="mailto:moazadgit@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:moazadgit@gmail.com"> <img src="https://img.shields.io/badge/🟢%20Open%20To-Work-2ea44f?style=for-the-badge" /> </a> </p> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </div>
+<p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Full-Stack+MERN+Developer;Turning+Ideas+Into+Web+Applications;Open+To+Software+Developer+Opportunities" alt="Typing SVG" /> </p> <p> <a href="mailto:moazadgit@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/moazad96"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:moazadgit@gmail.com"> <img src="https://img.shields.io/badge/🟢%20Open%20To-Work-2ea44f?style=for-the-badge" /> </a> </p> <img src="https://komarev.com/ghpvc/?username=moazad96&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </div>
 🚀 About Me
 
 I'm Md Azad, a passionate Full-Stack Web Developer focused on building modern, responsive, and user-friendly web applications.
@@ -64,11 +64,6 @@ MongoDB Express.js React.js Node.js
 🗄️ MongoDB database
 📱 Responsive user interface
 🎨 Modern and user-friendly design
-🔗 Project Links
-
-📂 View Source Code
-
-🌐 Live Demo
 
 🎂 02 — Cakiva
 Online Cake Shop
@@ -92,9 +87,6 @@ MongoDB Express.js React.js Node.js
 🎨 Modern and attractive UI
 🔗 Project Links
 
-📂 View Source Code
-
-🌐 Live Demo
 
 🍽️ 03 — Mehman
 Responsive Restaurant Website
@@ -118,9 +110,6 @@ HTML CSS JavaScript Bootstrap
 🧭 Easy navigation
 🔗 Project Links
 
-📂 View Source Code
-
-🌐 Live Demo
 
 📊 My Skill Set
 Category	Technologies
@@ -172,7 +161,7 @@ I'm currently open to work and looking for opportunities where I can contribute 
        🚀 WORKING APPLICATION
 
 📈 GitHub Statistics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moazad96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazad96&layout=compact&theme=tokyonight&hide_border=true" /> </div>
 🎯 Career Goals
 🚀 Start my professional career as a software developer
 💻 Work on real-world production applications
@@ -187,7 +176,7 @@ I'm interested in software development, full-stack applications, web technologie
 
 If you're a recruiter, developer, company, or someone interested in collaboration, feel free to connect.
 
-<div align="center"> <a href="mailto:moazadgit@gmail.com"> <img src="https://img.shields.io/badge/Email-moazadgit%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://img.shields.io/badge/GitHub-Visit-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
+<div align="center"> <a href="mailto:moazadgit@gmail.com"> <img src="https://img.shields.io/badge/Email-moazadgit%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/moazad96"> <img src="https://img.shields.io/badge/GitHub-Visit-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
 <div align="center">
 💙 Build. Learn. Improve. Repeat.
 
